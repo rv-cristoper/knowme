@@ -1,19 +1,23 @@
 import Head from 'next/head'
 import Layout from '../components/layout/Layout'
 
-import styles from '../styles/asdf.module.scss'
-
 const App = (): JSX.Element => {
 
    return (
       <>
          <Head>
-            <title>rv_cristoper</title>
+            <title>Cristoper Jhanfranco</title>
+            <link
+               rel="preload"
+               href="/fonts/KGHardCandy/KGHardCandyStriped.ttf"
+               as="font"
+               crossOrigin=""
+            />
          </Head>
          <Layout>
-            <div className={styles.main}>
+            <div>
                Nombre
-               <div className={styles.apellido}>
+               <div>
                   Apellido
                   <div>
                      Edad

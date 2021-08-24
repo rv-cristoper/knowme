@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Space+Mono:wght@400;700&display=swap");
+
 html,
 body {
   padding: 0;
@@ -20,4 +22,13 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+
+@font-face {
+  font-family: "KGHardCandy";
+  src: url("/fonts/KGHardCandy/KGHardCandyStriped.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
 }
