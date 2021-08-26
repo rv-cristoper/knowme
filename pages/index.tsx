@@ -13,11 +13,17 @@ const App = (): JSX.Element => {
                as="font"
                crossOrigin=""
             />
+            {/* ------ SEO X ------ */}
+            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
+            <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+            <meta name="description" content="No dejes que nada te detenga, ven y descubre como llevar tus diseños a un siguiente nivel." />
+            <meta name="theme-color" content="#89e21e" />
+            <meta property="og:site_name" content="SuMundo3D" />
+            {/* ------ Fin SEO X ------ */}
+
             {/* ------ SEO Facebook ------ */}
             <meta property="og:url" content="https://sumundo3d.com/" />
-            <meta name="theme-color" content="#89e21e" />
             <meta property="og:type" content="article" />
-            <meta property="og:site_name" content="SuMundo3D" />
             <meta property="og:title" content="SuMundo3D | Imprimir tus ideas en 3D nunca fue tan divertido" />
             <meta property="og:description" content="No dejes que nada te detenga, ven y descubre como llevar tus diseños a un siguiente nivel." />
             <meta property="og:image" content="https://res.cloudinary.com/cristoper/image/upload/v1629953379/prueba/logoSEOJ_k9jjgi.jpg" />
