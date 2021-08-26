@@ -6,7 +6,7 @@ const Header = (): JSX.Element => {
         <header className={styles.header}>
             <div className={styles.containerMain}>
                 <div className={styles.logo}>
-                    Criez
+                    Criez.
                 </div>
                 <div className={styles.navigate}>
                     <nav>
