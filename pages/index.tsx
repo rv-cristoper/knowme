@@ -13,6 +13,13 @@ const App = (): JSX.Element => {
                as="font"
                crossOrigin=""
             />
+            {/* ------ SEO Facebook ------ */}
+            <meta property="og:url" content="https://sumundo3d.com/" />
+            <meta property="og:type" content="article" />
+            <meta property="og:title" content="SuMundo3D | Imprimir tus ideas en 3D nunca fue tan divertido" />
+            <meta property="og:description" content="No dejes que nada te detenga, ven y descubre como llevar tus diseños a un siguiente nivel." />
+            <meta property="og:image" content="https://res.cloudinary.com/cristoper/image/upload/v1629952366/prueba/logoSEOW_b9lnqh.webp" />
+            {/* ------ Fin SEO Facebook ------ */}
          </Head>
          <Layout>
             <div>
