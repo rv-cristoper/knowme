@@ -18,7 +18,9 @@ const App = (): JSX.Element => {
             <meta property="og:type" content="article" />
             <meta property="og:title" content="SuMundo3D | Imprimir tus ideas en 3D nunca fue tan divertido" />
             <meta property="og:description" content="No dejes que nada te detenga, ven y descubre como llevar tus diseños a un siguiente nivel." />
-            <meta property="og:image" content="https://res.cloudinary.com/cristoper/image/upload/v1629952366/prueba/logoSEOW_b9lnqh.webp" />
+            <meta property="og:image" content="https://res.cloudinary.com/cristoper/image/upload/v1629953379/prueba/logoSEOJ_k9jjgi.jpg" />
+            <meta property="og:image:width" content="903" />
+            <meta property="og:image:height" content="473" />
             {/* ------ Fin SEO Facebook ------ */}
          </Head>
          <Layout>
