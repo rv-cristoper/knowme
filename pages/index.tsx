@@ -38,17 +38,17 @@ const App = (): JSX.Element => {
 
             <meta data-n-head="ssr" data-hid="ogTitle" property="og:title" content="SuMundo3D | Imprimir tus ideas en 3D nunca fue tan divertido" />
             <meta data-n-head="ssr" data-hid="ogDescription" property="og:description" content="No dejes que nada te detenga, ven y descubre como llevar tus diseños a un siguiente nivel." />
-            {/* <meta data-n-head="ssr" data-hid="ogImage" property="og:image" content="https://manzanaverde.la/images/brand/OpenGraph.jpg" />
+            <meta data-n-head="ssr" data-hid="ogImage" property="og:image" content="https://manzanaverde.la/images/brand/OpenGraph.jpg" />
             <meta data-n-head="ssr" data-hid="ogImageWidth" property="og:image:width" content="1200" />
-            <meta data-n-head="ssr" data-hid="ogImageHeight" property="og:image:height" content="625" /> */}
-            <meta data-n-head="ssr" data-hid="ogImage" property="og:image" content="https://res.cloudinary.com/cristoper/image/upload/v1629953379/prueba/logoSEOJ_k9jjgi.jpg" />
+            <meta data-n-head="ssr" data-hid="ogImageHeight" property="og:image:height" content="625" />
+            {/* <meta data-n-head="ssr" data-hid="ogImage" property="og:image" content="https://res.cloudinary.com/cristoper/image/upload/v1629953379/prueba/logoSEOJ_k9jjgi.jpg" />
             <meta data-n-head="ssr" data-hid="ogImageWidth" property="og:image:width" content="903" />
-            <meta data-n-head="ssr" data-hid="ogImageHeight" property="og:image:height" content="473" />
+            <meta data-n-head="ssr" data-hid="ogImageHeight" property="og:image:height" content="473" /> */}
 
             <meta data-n-head="ssr" data-hid="ogSite_name" property="og:site_name" content="SuMundo3D" />
             <meta data-n-head="ssr" data-hid="ogType" property="og:type" content="article" />
             {/* <meta data-n-head="ssr" name="google-site-verification" content="BhDVqEyZhsrXu38P3e0A8V2D1EvQH94R0AMCWnwizE8" /> */}
-            {/* <meta data-n-head="ssr" name="fb:app_id" content="441477456574869" /> */}
+            <meta data-n-head="ssr" name="fb:app_id" content="1485300235185043" />
             <meta data-n-head="ssr" data-hid="ogUrl" property="og:url" content="https://cristoper.netlify.app/" />
             <meta data-n-head="ssr" data-hid="description" name="description" content="No dejes que nada te detenga, ven y descubre como llevar tus diseños a un siguiente nivel." />
 
